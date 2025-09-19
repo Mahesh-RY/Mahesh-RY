@@ -7,6 +7,10 @@
 
 ---
 
+# Click here to visit my portfolio
+
+https://mahesh-ry.github.io/Portfolio_Mahesh/
+
 ## 🚀 About Me  
 
 I’m Mahesh — a **final-year B.Tech (AI & ML) student** with 1+ year of experience in **AI tech support, international client communication, and B2B project coordination**.  
