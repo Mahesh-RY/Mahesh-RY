@@ -46,8 +46,8 @@ _Feb 2024 – Feb 2025_
 - Led a team of international students to recommend accurate, category-wise products 
 - Enhanced sourcing efficiency through AI automation and workflow optimization
 
-  **AI/ML Virtual - Intern. (EduSkills (in collaboration with AWS Academy & AICTE))**  
-  _jan 2025 – Mar 2025_  
+**AI/ML Virtual - Intern. (EduSkills (in collaboration with AWS Academy & AICTE))**  
+_jan 2025 – Mar 2025_  
 - Completed a 10-week research-driven internship on supervised and unsupervised ML techniques  
 - Built and tested ML models, with a focus on exploratory analysis and comparative evaluation  
 - Enhanced understanding of core AI/ML workflows, contributing to a stronger foundation for applied research
