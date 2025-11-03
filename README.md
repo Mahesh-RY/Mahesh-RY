@@ -25,7 +25,7 @@ I love building **practical AI/ML solutions** — from **predictive models** to 
 
 - 🎓 **B.Tech (AI & ML)** — Mohan Babu University (Final Year, CGPA: 8.88)  
 - 🛠️ **10+ Projects** in AI/ML, NLP, Web Development & Analytics  
-- 🌍 **1+ Year Experience** in project assistant & project coordination  
+- 🌍 **1+ Year Experience** in AI project assistant & project coordination  
 - 🤝 Led & mentored **teams of global interns** while managing client deliverables  
 
 ---
