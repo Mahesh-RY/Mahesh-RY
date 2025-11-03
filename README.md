@@ -3,7 +3,7 @@
 **Aspiring AI/ML Engineer | Data Enginer | Data Analysit | Data Scientist**  
 
 📍 Veerabhadrapuram, Prakasam, Andhra Pradesh, India – 523336  
-📧 [maheshnr999@gmail.com](mailto:maheshnr999@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/mahesh-reddy-a11b2a274) | 💻 [GitHub](https://github.com/Mahesh-RY)  
+📧 [maheshnr999@gmail.com](mailto:maheshnr999@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/mahesh-reddy-a11b2a274) 
 
 ---
 
@@ -100,6 +100,6 @@ I want to contribute to **AI that solves real problems** — simple or complex. 
 
 📧 [maheshnr999@gmail.com](mailto:maheshnr999@gmail.com)  
 📞 +91 6305615648  
-🔗 [LinkedIn](https://linkedin.com/in/mahesh-reddy-a11b2a274) | 💻 [GitHub](https://github.com/Mahesh-RY)  
+🔗 [LinkedIn](https://linkedin.com/in/mahesh-reddy-a11b2a274)  
 
 ---
