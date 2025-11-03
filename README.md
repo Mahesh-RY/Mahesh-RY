@@ -32,7 +32,7 @@ I love building **practical AI/ML solutions** — from **predictive models** to 
 
 ## 🏆 Achievements  
 
-- Successfully transitioned from **Intern → Employee → AI Tech Support Lead** within GAOTek Inc. in under 2 years.  
+- Successfully transitioned from **Intern → Employee → AI Tech Support Lead** within GAOTek Inc. in under 1 years.  
 - Mentored and guided **international interns** across multiple AI/ML projects, ensuring timely project delivery.  
 - Built and deployed **AI-driven applications** (Breast Cancer Prediction, Next-Word Prediction, Wine Quality Scoring, Salary Prediction) with practical real-world use cases.  
 - Recognized for **professional communication and client handling** in international B2B projects.  
